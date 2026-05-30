@@ -8,13 +8,19 @@ I design in Figma and build in code. I care about how things look, how they feel
 
 ### 🎨 On the design side
 - Designing interfaces that are clean, intuitive, and purposeful
-- Currently working on UX for real-world products — not just mockups
-- Tools: **Figma** · Elementor Pro · ACF · WordPress
+- Built complete UI systems for real products — defined color palettes, component layouts, responsive page structures
+- Organize design work and project docs in **Notion**
+- Tools: **Figma** · Elementor Pro · WordPress · ACF
 
 ### 💻 On the dev side
 - Building full-stack web apps with **Next.js · TypeScript · Node.js**
 - Working with databases (Prisma · MySQL · Convex) and backend APIs
 - Integrating real services — payments, WhatsApp automations, Google Calendar, PDFs
+
+### 🧪 On the QA side
+- Write and manage test cases in **Trello** for my own projects (EMR system, Nexus LMS, and more)
+- Test across user flows — booking, auth, doctor dashboard, payment webhooks
+- Catches edge cases before they become real bugs
 
 ---
 
@@ -38,7 +44,7 @@ I design in Figma and build in code. I care about how things look, how they feel
 Frontend     Next.js · React · TypeScript · Tailwind CSS · Vanilla JS
 Design       Figma · Elementor Pro · WordPress · ACF
 Backend      Node.js · Express · Prisma · MySQL · Convex
-Tools        Git · Vercel · Hostinger · shadcn/ui
+Tools        Git · Notion · Trello · Vercel · Hostinger · shadcn/ui
 ```
 
 ---
